@@ -1,0 +1,19 @@
+{
+    "scenes": [
+        {
+            "scene_name": "scene_1",
+            "created_by": "cooper",
+            "frames": [
+                {
+                    "frame_name": "frame_1",
+                    "frame": [
+                        [true,false,true],
+                        [false,true,false],
+                        [true,false,true]
+                    ]
+                }
+            ]
+        }   
+    ]
+
+}
